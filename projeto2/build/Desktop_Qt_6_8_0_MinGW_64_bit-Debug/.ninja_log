@@ -1,0 +1,21 @@
+# ninja log v6
+13	1060	7513259581570447	projeto2_autogen/timestamp	129844697022b394
+13	1060	7513259581570447	projeto2_autogen/mocs_compilation.cpp	129844697022b394
+13	1060	7513259581570447	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/timestamp	129844697022b394
+13	1060	7513259581570447	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/mocs_compilation.cpp	129844697022b394
+1069	4053	7513259582650546	CMakeFiles/projeto2.dir/projeto2_autogen/mocs_compilation.cpp.obj	569858e10c232fd7
+1092	4106	7513259582873171	CMakeFiles/projeto2.dir/main.cpp.obj	f32e566111b871b3
+1099	4223	7513259582951773	CMakeFiles/projeto2.dir/mainwindow.cpp.obj	1b6c1d3d837f8b57
+4223	4480	7513259614198033	projeto2.exe	88641f634c5b053c
+30	231	7513259878316179	projeto2_autogen/timestamp	129844697022b394
+30	231	7513259878316179	projeto2_autogen/mocs_compilation.cpp	129844697022b394
+30	231	7513259878316179	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/timestamp	129844697022b394
+30	231	7513259878316179	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/mocs_compilation.cpp	129844697022b394
+232	2889	7513259880335317	CMakeFiles/projeto2.dir/mainwindow.cpp.obj	1b6c1d3d837f8b57
+2889	3154	7513259906899242	projeto2.exe	88641f634c5b053c
+33	330	7513261681016711	projeto2_autogen/timestamp	129844697022b394
+33	330	7513261681016711	projeto2_autogen/mocs_compilation.cpp	129844697022b394
+33	330	7513261681016711	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/timestamp	129844697022b394
+33	330	7513261681016711	C:/Users/joaov/Documents/QT/projeto2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/projeto2_autogen/mocs_compilation.cpp	129844697022b394
+331	3258	7513261683989383	CMakeFiles/projeto2.dir/mainwindow.cpp.obj	1b6c1d3d837f8b57
+3259	3526	7513261713260874	projeto2.exe	88641f634c5b053c
