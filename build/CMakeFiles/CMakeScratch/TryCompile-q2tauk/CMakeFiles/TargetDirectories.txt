@@ -1,0 +1,3 @@
+C:/Users/joaov/Documents/QT/build/CMakeFiles/CMakeScratch/TryCompile-q2tauk/CMakeFiles/cmTC_1a42a.dir
+C:/Users/joaov/Documents/QT/build/CMakeFiles/CMakeScratch/TryCompile-q2tauk/CMakeFiles/edit_cache.dir
+C:/Users/joaov/Documents/QT/build/CMakeFiles/CMakeScratch/TryCompile-q2tauk/CMakeFiles/rebuild_cache.dir
