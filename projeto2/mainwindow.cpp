@@ -11,8 +11,6 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
 
-
-
     // Configurar estilo moderno
     QString style = R"(
     QMainWindow {
@@ -128,8 +126,6 @@ void MainWindow::botaoValidar(){
         }
     }
 }
-
-
 
 void MainWindow::on_pushButton_2_clicked()
 {
