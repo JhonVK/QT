@@ -18,9 +18,17 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_pushButton_clicked();
+    void botaoValidar();
+
 
 private:
     Ui::MainWindow *ui;
+    QHash<QString, QString> credentials;
+
+
+    int failedAttempts;
+    static const int MAX_FAILED_ATTEMPTS = 3;      // Máximo de tentativas
+    static const int LOCKOUT_DURATION = 30000;     // Tempo de bloqueio (30 segundos)
+
 };
 #endif // MAINWINDOW_H
